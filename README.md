@@ -13,6 +13,4 @@
 ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=ekaterina-akulova)
 
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaterina-akulova&layout=compact)](https://github.com/ekaterina-akulova/github-readme-stats)
