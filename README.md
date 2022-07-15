@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ekaterina</a> 
+<h1 align="center">Hi there, I'm Ekaterina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F74EF0&background=FEFF4000&width=1000&height=90&lines=I+am+currently+learning+%3A;Python;C%2FC%2B%2B;AI%2C+ML;+SQL)](https://git.io/typing-svg)
